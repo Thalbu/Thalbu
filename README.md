@@ -15,9 +15,5 @@
 
 ## 🌐 Contato
 
-<a href="https://www.linkedin.com/in/tainan-albuquerque/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:tainanalbuquerque1@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white" alt="Email">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tainan-albuquerque/)
+[![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:tainanalbuquerque1@hotmail.com)
